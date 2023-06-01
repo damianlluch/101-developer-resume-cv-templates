@@ -156,6 +156,48 @@ Development from scratch of the SAEM parking system that has operated in the cit
 * Business trips.
 * Main technologies used: Django.
 
+### **Chedoc**, Mean Stack Developer 10/2016 - 12/2017 | Buenos Aires - Argentina
+
+Chedoc software development, medical clinic management system.
+
+* Development and maintenance of chedoc.com.
+* Backend development in Express - MongoDB
+* Frontend development in AngularJS
+
+### **Banco de la Provincia de Buenos Aires**, Infrastructure - Networks 08/2008 - 08/2016 | Buenos Aires - Argentina
+
+The most important bank in Argentina, where I worked for 8 years as a fulltime trainer in systems areas.
+
+* Maintenance of terminals and devices
+* Server maintenance and installation and maintenance of software.
+* User support for upgrades or repairs
+* Removal of malicious software.
+* Review and update of security criteria.
+* Database management.
+* Management of network connection services.
+
+### **Banco de la Provincia de Buenos Aires**, Infrastructure - Networks 08/2008 - 08/2016 | Buenos Aires - Argentina
+
+The most important bank in Argentina, where I worked for 8 years as a fulltime trainer in systems areas.
+
+* Maintenance of terminals and devices
+* Server maintenance and installation and maintenance of software.
+* User support for upgrades or repairs
+* Removal of malicious software.
+* Review and update of security criteria.
+* Database management.
+* Management of network connection services.
+
+### **Freelance Web Developer**, 02/2003 - 05/2008 | Buenos Aires - Argentina
+
+Design and development of websites in various web technologies.
+
+* Development of websites using CMS such as Joomla and Wordpress.
+* Development of interactive sites with Flash.
+* Development of landing pages with HTML - CSS.
+* Development of dynamic websites with PHP.
+* Deployment of own servers
+
 ## SIDE PROJECTS
 
 ### **SuspendedSoul.com - Curated NFT platform, Co-Founder** | www.suspendedsoul.com
@@ -164,6 +206,13 @@ Development from scratch of the SAEM parking system that has operated in the cit
 * Development of smart contracts in Solidity.
 * Backend development with Google Cloud Functions - Typescript.
 * Frontend development with Vue.js - Typescript - Tailwind.
+
+### **LIFIA, Universidad Nacional de La Plata**, Teaching Assistant 08/2012 - 08/2015 | Buenos Aires - Argentina
+
+Research and teaching assistant at the National University of La Plata, LIFIA research laboratory.
+
+* Research and teaching assistant in Object Oriented Programming 1. Use of Smalltalk language.
+* Research and teaching assistant in Object Oriented Programming 2. Use of Smalltalk language. Use of Smalltalk language. Development of solutions using design patterns.
 
 ## EDUCATION
 * Licenciate in Systems Engineering. UNLP University, La Plata, Buenos Aires, Argentina, 2015.
