@@ -176,18 +176,6 @@ The most important bank in Argentina, where I worked for 8 years as a fulltime t
 * Database management.
 * Management of network connection services.
 
-### **Banco de la Provincia de Buenos Aires**, Infrastructure - Networks 08/2008 - 08/2016 | Buenos Aires - Argentina
-
-The most important bank in Argentina, where I worked for 8 years as a fulltime trainer in systems areas.
-
-* Maintenance of terminals and devices
-* Server maintenance and installation and maintenance of software.
-* User support for upgrades or repairs
-* Removal of malicious software.
-* Review and update of security criteria.
-* Database management.
-* Management of network connection services.
-
 ### **Freelance Web Developer**, 02/2003 - 05/2008 | Buenos Aires - Argentina
 
 Design and development of websites in various web technologies.
