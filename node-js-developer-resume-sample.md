@@ -125,6 +125,24 @@ Dashboard systems for companies based on KPIs
 * Dashboard design and development for Spanish client - Pamesa Cerámica in Vue.js - Tailwind - Highcharts
 * Laravel backend design and development for Spanish client - Marketing Directo.
 
+### **FbaseTV**, Frontend Developer 04/2019 - 06/2020 | Andorra la Vella - Andorra
+
+FBASE.tv is a platform designed to expand the world of the football academy, transmitting the emotion and the best moments experienced on the pitches and to provide.
+
+* Development and maintenance of https://www.fbase.tv
+* Backend development in Express - MongoBD.
+* Backoffice development in Ionic - Vue - Vuex.
+* App development in Vue - Vuex.
+
+### **FbaseTV**, Frontend Developer 04/2019 - 06/2020 | Andorra la Vella - Andorra
+
+FBASE.tv is a platform designed to expand the world of the football academy, transmitting the emotion and the best moments experienced on the pitches and to provide.
+
+* Development and maintenance of https://www.fbase.tv
+* Backend development in Express - MongoBD.
+* Backoffice development in Ionic - Vue - Vuex.
+* App development in Vue - Vuex.
+
 ## SIDE PROJECTS
 
 ### **SuspendedSoul.com - Curated NFT platform, Co-Founder** | www.suspendedsoul.com
