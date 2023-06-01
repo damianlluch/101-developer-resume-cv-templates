@@ -134,14 +134,27 @@ FBASE.tv is a platform designed to expand the world of the football academy, tra
 * Backoffice development in Ionic - Vue - Vuex.
 * App development in Vue - Vuex.
 
-### **FbaseTV**, Frontend Developer 04/2019 - 06/2020 | Andorra la Vella - Andorra
+### **Lastenia Software**, Fullstack Developer 01/2018 - 07/2018 | Buenos Aires - Argentina
 
-FBASE.tv is a platform designed to expand the world of the football academy, transmitting the emotion and the best moments experienced on the pitches and to provide.
+IT Consultancy - Lastenia Software
+http://www.lasteniasoftware.com.ar/
 
-* Development and maintenance of https://www.fbase.tv
-* Backend development in Express - MongoBD.
-* Backoffice development in Ionic - Vue - Vuex.
-* App development in Vue - Vuex.
+* Technologies used: Laravel - Jquery
+
+### **IT NET SA**, Functional Analyst 08/2016 - 07/2018 | Buenos Aires - Argentina
+
+Development from scratch of the SAEM parking system that has operated in the city of San Lorenzo in Paraguay, and currently operates in the city of Neuquen in Argentina.
+
+* Definition of requirements, scrum, agile methodologies, user stores.
+* Development of UML models, Gant diagrams.
+* Development of documentation, user manuals.
+* Integration with other systems.
+* AWS management.
+* Presentations, demos with large clients and city councils.
+* End-user training.
+* Management of processes and generation of test cases - stress testing.
+* Business trips.
+* Main technologies used: Django.
 
 ## SIDE PROJECTS
 
