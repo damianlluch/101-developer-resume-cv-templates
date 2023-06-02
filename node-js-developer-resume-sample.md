@@ -7,6 +7,7 @@ Creative Fullstack Developer with 12+ years of solid experience in Javascript fr
 * **Email**: damianclluch@gmail.com
 * LinkedIn: https://www.linkedin.com/in/damianlluch/
 * Github: https://github.com/damianlluch
+* Upwork: https://www.upwork.com/freelancers/~01f4f6a6707bd595fe
 
 ## KEY SKILLS
 
