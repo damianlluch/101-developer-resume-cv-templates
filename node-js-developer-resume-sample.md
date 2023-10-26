@@ -53,6 +53,15 @@ Creative Fullstack Developer with 12+ years of solid experience in Javascript fr
 * Backend development in NestJS - Serverless - CDK - Lambda - Cognito - S3 - SQS.
 * Frontend development with React and Typescript.
 
+### **Silver Net SA**, Senior Blockchain and Backend Developer 04/2022 - now | Buenos Aires, Argentina
+* Web application development using React - Typescript and NodeJS.
+* Implementation and management of the AWS platform, including administration of servers, cloud storage and databases.
+* Using Capacitor to develop cross-platform applications that run on both web and native mobile devices.
+* IT consulting, offering digitisation strategies and process optimisation to improve efficiency and productivity.
+* Software development estimation, providing accurate planning and budgeting.
+* Continuous research and adoption of new technologies and trends to keep the company at the forefront of the technology field.
+* Development of a keyboard typing application with gestures through TensorFlow.
+
 ### **Freelance Fullstack, Backend - Frontend -SmartContracts - (UPWORK)**, 07/2018 - now | Spain
 * Data import module with SheetsJS - React - Typescript - PUDO - pudo.com.ar Argentina - 2023.
 * Ionic APP - Capacitor - inAppBrowser - published in Play Store - SAEM - saem.com.ar - 2022
@@ -82,7 +91,7 @@ Creative Fullstack Developer with 12+ years of solid experience in Javascript fr
 * Development of website mysunset.com in Wordpress - 2018 - Spain
 * Development of website mysunsetprojects.com in Wordpress - WpBakery - 2018 - Spain
 * Development of mobile APP (inAppBrowser) for website bajardepeso.me - 2018 - Spain
-* Correction of fixes for Regalas Flores application developed in Symfony and Vue - regalarflores.net - 2018 - Spain
+* Correction of fixes for Regalar Flores application developed in Symfony and Vue - regalarflores.net - 2018 - Spain
 * Mobile template integration in React Native with Wordpress - WooCommerce for Famitip - famitip.com - USA.
 * Laravel backend fixes for EFIN efin.com - 2019 - China
 * Design and development of VPC in AWS for Teknhe - tekhne.com.ar - 2019 - Argentina
