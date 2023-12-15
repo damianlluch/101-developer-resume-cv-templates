@@ -1,4 +1,4 @@
-## Damian Lluch | Fullstack Blockchain Developer | IT Consultant | Software Engineer | Entrepreneur
+## Damian Lluch | Functional Analyst | IT Consultant | Software Engineer | Fullstack Blockchain Developer
 
 Creative Fullstack Developer with 12+ years of solid experience in Javascript frameworks in backend, frontend and mobile, databases: Mysql -MongoDB, OS & Terminal, Blockchain areas, AWS, Google Cloud.
 ## CONTACTS
@@ -13,31 +13,38 @@ Creative Fullstack Developer with 12+ years of solid experience in Javascript fr
 
 
 ### **Front End**:
-* VueJS, React
+* VueJS, React, Angular
 * JavaScript/ES6/ES2017, RESTful API
 * Redux - Vuex - Hooks - Web Components
-* WebGL, XHTML, XML
+* Tailwind - Bootstrap - Material UI - Vuetify - Antd
 
 ### **Back End**:
 * NestJS - Express - Google Cloud Functions - Serverless
 * Laravel
 * Django - Flask
 
+### **Mobile**:
+* Ionic - Capacitor - Cordova
+
+### **Blockchain**:
+* Solidity - Truffle - Hardhat - Web3 - EthersJS - 
+* Moralis - Hyperledger Besu - TheGraph - ChainLink
+
 ### **Databases**:
 * CRUD
-* MongoDB, MySQL, Postgres
+* MongoDB, MySQL, Postgres, Firebase
 * SQLLite
 
 ### **Testing**:
-* Unit Test
+* Unit Test, Jest, Mocha, Chai
 
 ### **DevOps**:
-* AWS - Google Cloud
+* AWS - Google Cloud - Azure
 
 ### **SDLC**:
-* 12 Factor App, Asana, Basecamp
-* Bitbucket, Draw.io , ER Diagrams
-* Lint, SOLID principles, UML
+* 12 Factor App, Asana, Basecamp, Jira, Trello, Slack, 
+* Git, Github, Bitbucket, Draw.io , ER Diagrams
+* Lint, SOLID principles, UML, User Stories, Scrum, Kanban, Agile
 
 ## WORK HISTORY
 
@@ -54,7 +61,7 @@ Creative Fullstack Developer with 12+ years of solid experience in Javascript fr
 * Frontend development with React and Typescript.
 
 ### **Silver Net SA**, Senior Blockchain and Backend Developer 04/2022 - now | Buenos Aires, Argentina
-* Web application development using React - Typescript and NodeJS.
+* Web application development using React - Typescript and NodeJS - TensorFlow.
 * Implementation and management of the AWS platform, including administration of servers, cloud storage and databases.
 * Using Capacitor to develop cross-platform applications that run on both web and native mobile devices.
 * IT consulting, offering digitisation strategies and process optimisation to improve efficiency and productivity.
@@ -62,7 +69,7 @@ Creative Fullstack Developer with 12+ years of solid experience in Javascript fr
 * Continuous research and adoption of new technologies and trends to keep the company at the forefront of the technology field.
 * Development of a keyboard typing application with gestures through TensorFlow.
 
-### **Freelance Fullstack, Backend - Frontend -SmartContracts - (UPWORK)**, 07/2018 - now | Spain
+### **Freelance Fullstack, Backend - Frontend -SmartContracts - (UPWORK)**, 07/2018 - 05/2023 | Spain
 * Data import module with SheetsJS - React - Typescript - PUDO - pudo.com.ar Argentina - 2023.
 * Ionic APP - Capacitor - inAppBrowser - published in Play Store - SAEM - saem.com.ar - 2022
 * Software estimation report using the use case technique - SAEM - 2022 - Argentina
