@@ -15,6 +15,7 @@ Creative Fullstack Developer with 12+ years of solid experience in Javascript fr
 ### **Front End**:
 * VueJS, React, Angular
 * JavaScript/ES6/ES2017, RESTful API
+* Nuxt, Next
 * Redux - Vuex - Hooks - Web Components
 * Tailwind - Bootstrap - Material UI - Vuetify - Antd
 
