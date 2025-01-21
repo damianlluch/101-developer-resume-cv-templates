@@ -15,13 +15,12 @@ Creative Fullstack Developer with 12+ years of solid experience in Javascript fr
 ### **Front End**:
 * VueJS, React, Angular
 * JavaScript/ES6/ES2017, RESTful API
-* Nuxt, Next
-* Redux - Vuex - Hooks - Web Components
+* Nuxt, Next, NextAuth
+* Redux - Vuex - Hooks - Web Components - Zustand
 * Tailwind - Bootstrap - Material UI - Vuetify - Antd
 
 ### **Back End**:
-* NestJS - Express - Google Cloud Functions - Serverless
-* Laravel
+* NestJS - Express - Google Cloud Functions - Serverless - GraphQL
 * Django - Flask
 
 ### **Mobile**:
@@ -40,7 +39,7 @@ Creative Fullstack Developer with 12+ years of solid experience in Javascript fr
 * Unit Test, Jest, Mocha, Chai
 
 ### **DevOps**:
-* AWS - Google Cloud - Azure
+* AWS - Google Cloud - Azure 
 
 ### **SDLC**:
 * 12 Factor App, Asana, Basecamp, Jira, Trello, Slack, 
@@ -49,7 +48,19 @@ Creative Fullstack Developer with 12+ years of solid experience in Javascript fr
 
 ## WORK HISTORY
 
-### **Woonkly Labs**, Senior Blockchain and Backend Developer 07/2021 - now | Madrid, Spain
+### **Silver Net SA**, Fullstack Engineer - now | Buenos Aires, Argentina
+* Web application development using React - Typescript and NodeJS - TensorFlow - NextJS - MongoDB - AWS Lambda - AWS CDK - Docker
+* Implementation and management of the AWS platform, including administration of servers, cloud storage and databases.
+* Using Capacitor to develop cross-platform applications that run on both web and native mobile devices.
+* IT consulting, offering digitisation strategies and process optimisation to improve efficiency and productivity.
+* Software development estimation, providing accurate planning and budgeting.
+* Continuous research and adoption of new technologies and trends to keep the company at the forefront of the technology field.
+* Development of a keyboard typing application with gestures through TensorFlow.
+
+### **Waytocol**, Frontend Engineer 05/2024 - 01/2025 | Valencia, Spain
+* Development of different platforms from scratch with technologies such as Vue3, React, NextJS, NextAuth, Docker, Redux, Vuex, Tailwind.
+
+### **Woonkly Labs**, Senior Blockchain and Backend Developer 07/2021 - 07/2023 | Madrid, Spain
 * Development and maintenance of DEFI platform https://kubic.com/
 * Development and maintenance of NFT platform https://woonkly.com/
 * Design applications and modules from scratch with UML, User Stories, requirements definition.
@@ -60,15 +71,6 @@ Creative Fullstack Developer with 12+ years of solid experience in Javascript fr
 * Use of web3 libraries with web3.js and ethers.
 * Backend development in NestJS - Serverless - CDK - Lambda - Cognito - S3 - SQS.
 * Frontend development with React and Typescript.
-
-### **Silver Net SA**, Senior Blockchain and Backend Developer 04/2022 - now | Buenos Aires, Argentina
-* Web application development using React - Typescript and NodeJS - TensorFlow.
-* Implementation and management of the AWS platform, including administration of servers, cloud storage and databases.
-* Using Capacitor to develop cross-platform applications that run on both web and native mobile devices.
-* IT consulting, offering digitisation strategies and process optimisation to improve efficiency and productivity.
-* Software development estimation, providing accurate planning and budgeting.
-* Continuous research and adoption of new technologies and trends to keep the company at the forefront of the technology field.
-* Development of a keyboard typing application with gestures through TensorFlow.
 
 ### **Freelance Fullstack, Backend - Frontend -SmartContracts - (UPWORK)**, 07/2018 - 05/2023 | Spain
 * Data import module with SheetsJS - React - Typescript - PUDO - pudo.com.ar Argentina - 2023.
